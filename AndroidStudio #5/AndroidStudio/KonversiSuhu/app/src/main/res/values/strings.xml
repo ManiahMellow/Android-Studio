@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Konversi Suhu</string>
+
+    <string-array name="pilihan">
+        <item>Celcius to Reamour</item>
+        <item>Celcius to Fahrenheit</item>
+        <item>Celcius to Kelvin</item>
+        <item>Reamour to Celcius</item>
+        <item>Reamour to Fahrenheit</item>
+        <item>Reamour to Kelvin</item>
+        <item>Kelvin to Celcius</item>
+        <item>Kelvin to Reamour</item>
+        <item>Kelvin to Fahrenheit</item>
+        <item>Fahrenheit to Celcius</item>
+        <item>Fahrenheit to Reamour</item>
+        <item>Fahrenheit to Kelvin</item>
+    </string-array>
+</resources>
