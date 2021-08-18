@@ -1,0 +1,45 @@
+package com.hilow.sqlitedatabase;
+
+public class Barang {
+
+    private String idBarang, barang, stok, harga;
+
+    public Barang(String idBarang, String barang, String stok, String harga) {
+        this.idBarang = idBarang;
+        this.barang = barang;
+        this.stok = stok;
+        this.harga = harga;
+    }
+
+    public String getIdBarang() {
+        return idBarang;
+    }
+
+    public void setIdbarang(String idBarang) {
+        this.idBarang = idBarang;
+    }
+
+    public String getBarang() {
+        return barang;
+    }
+
+    public void setBarang(String barang) {
+        this.barang = barang;
+    }
+
+    public String getStok() {
+        return stok;
+    }
+
+    public void setStok(String stok) {
+        this.stok = stok;
+    }
+
+    public String getHarga() {
+        return harga;
+    }
+
+    public void setHarga(String harga) {
+        this.harga = harga;
+    }
+}
